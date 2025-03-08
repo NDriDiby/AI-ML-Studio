@@ -6,7 +6,9 @@ This project focuses on **predicting stock price movements using AI-driven finan
 ## Objectives  
 - **News Sentiment Analysis**: Classify financial news as **positive, neutral, or negative**.  
 - **Stock Price Prediction**: Train AI models to predict **stock movements for the next 5 days**.  
-- **AI Agent Development**: Implement an AI-driven model to analyze real-time financial news.  
+- **AI Agent Development**: Implement an AI-driven model to analyze real-time financial news.
+
+![Goals](images/goals.png)
 
 ## Data Collection  
 - **Financial News Sources:**  
