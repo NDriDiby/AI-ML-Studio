@@ -43,7 +43,9 @@ This project focuses on **predicting stock price movements using AI-driven finan
 - Challenges:  
   - Limited training data.  
   - Predictions lagged behind actual market changes.  
-  - More tuning needed for **optimizers and activation functions**.  
+  - More tuning needed for **optimizers and activation functions**.
+
+![Graphed Results](images/graph.png)
 
 ## Business Impact  
 - **Supports investment research and trading decisions**.  
@@ -55,8 +57,3 @@ This project focuses on **predicting stock price movements using AI-driven finan
 - Implement **real-time financial news analysis** for dynamic predictions.  
 - Explore **LLM-based AI agents** for enhanced stock market insights.  
 
-## Installation & Usage  
-1. **Clone the repository**:  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
